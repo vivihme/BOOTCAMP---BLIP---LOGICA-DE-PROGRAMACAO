@@ -19,8 +19,8 @@ function rankingCalc(balance){
     } else if (balance >= 81 && balance <= 90){
         return 'Diamante';
     } else if (balance >= 91 && balance <= 100){
-        return 'Lendário'
+        return 'Lendário';
     } else {
-        return 'Imortal'
+        return 'Imortal';
     }
 }
